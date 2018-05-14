@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "275600972009",
+    "firebase_url": "https://vapepop-fafa0.firebaseio.com",
+    "project_id": "vapepop-fafa0",
+    "storage_bucket": "vapepop-fafa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275600972009:android:4e361394e7a5c181",
+        "android_client_info": {
+          "package_name": "vapepop.vapepop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275600972009-e7bpbf7g1gp7pknf73klipoefcrc7pfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9rPn5RYOrqObR7xlhDams3lA-m3f3D60"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
